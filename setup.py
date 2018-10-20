@@ -5,7 +5,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(name='example_pybr',
-      version='0.1',
+      version='0.2',
       description='Example of a simple Python package',
       url='http://github.com/deboraazevedo/example_pybr',
       author='Debora Azevedo',
