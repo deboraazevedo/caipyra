@@ -9,7 +9,7 @@ pip install example_pybr
 ## Usage
 
 ```
->>> import example_pybr
+>>> from example_pybr import example_pybr
 
 >>> example_pybr.hello()
 
